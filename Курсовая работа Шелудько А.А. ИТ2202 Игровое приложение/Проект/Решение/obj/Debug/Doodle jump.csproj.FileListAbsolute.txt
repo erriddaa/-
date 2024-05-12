@@ -1,0 +1,15 @@
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.csproj.AssemblyReference.cache
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.csproj.SuggestedBindingRedirects.cache
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\ДУДЛ.Form1.resources
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.csproj.GenerateResource.cache
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\ДУДЛ.Properties.Resources.resources
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.csproj.CoreCompileInputs.cache
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\bin\Debug\Doodle jump.exe.config
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\bin\Debug\Doodle jump.exe.manifest
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\bin\Debug\Doodle jump.application
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\bin\Debug\Doodle jump.exe
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\bin\Debug\Doodle jump.pdb
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.exe.manifest
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.application
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.exe
+C:\Users\shelu\OneDrive\Документы\Курсовая работа Шелудько А.А. ИТ2202\Проект\Решение\obj\Debug\Doodle jump.pdb

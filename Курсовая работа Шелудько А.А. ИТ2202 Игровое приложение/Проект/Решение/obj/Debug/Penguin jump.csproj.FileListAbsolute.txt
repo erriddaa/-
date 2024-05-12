@@ -1,0 +1,15 @@
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\bin\Debug\penguin jump.exe.config
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\bin\Debug\penguin jump.exe.manifest
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\bin\Debug\penguin jump.application
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\bin\Debug\penguin jump.exe
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\bin\Debug\penguin jump.pdb
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\Penguin jump.csproj.AssemblyReference.cache
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\Penguin jump.csproj.SuggestedBindingRedirects.cache
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\ДУДЛ.Form1.resources
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\ДУДЛ.Properties.Resources.resources
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\Penguin jump.csproj.GenerateResource.cache
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\Penguin jump.csproj.CoreCompileInputs.cache
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\penguin jump.exe.manifest
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\penguin jump.application
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\penguin jump.exe
+C:\Users\shelu\OneDrive\Документы\курса 2\ДУДЛ\obj\Debug\penguin jump.pdb
