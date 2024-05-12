@@ -1,0 +1,11 @@
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\bin\Debug\Лаба 8-9.exe.config
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\bin\Debug\Лаба 8-9.exe
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\bin\Debug\Лаба 8-9.pdb
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба 8-9.csproj.AssemblyReference.cache
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба 8-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба_8_9.Form1.resources
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба_8_9.Properties.Resources.resources
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба 8-9.csproj.GenerateResource.cache
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба 8-9.csproj.CoreCompileInputs.cache
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба 8-9.exe
+C:\Users\shelu\source\repos\Лаба 8-9\Лаба 8-9\obj\Debug\Лаба 8-9.pdb
